@@ -78,3 +78,41 @@
 
 // console.log(y);
 // //here the value of y is 10
+
+
+// //CONST//
+
+// const x = 4;
+// console.log(x);
+// const x = 5; // Wrong, you cannot redeclare the value
+
+// x = 8; //you cannot reassign the variable in const
+
+// let a = 2; //Declare 
+// // let a = 3; //Re-Declare (wrong)
+// a = 6; // Reassign
+
+// console.log(a);
+
+
+// //BLOCK SCOPE//
+
+// const a = 10;
+// console.log(a); //here the value is 10
+
+// {
+//     const a = 5; 
+//     console.log(a); // here the value is 5
+// }
+
+
+// console.log(a);  //here the value is 10
+
+//decalre the variable using only camelCasing
+
+//example of camelCasing
+
+// var camelCasing = 'Steve Smith';
+
+// console.log(camelCasing);
+
