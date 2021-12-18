@@ -88,3 +88,11 @@
 
 // console.log(b);
 // console.log(typeof(b));
+
+
+
+// //Task
+// let x = "text";
+// let y = '20';
+
+// console.log(x);
