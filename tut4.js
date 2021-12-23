@@ -13,7 +13,6 @@
 
 // console.log(Number(x)); // Result is NaN
 
-
 // let a = '10'; //declared the variable
 
 // console.log(typeof(a)); //logged the data type of a
@@ -28,7 +27,6 @@
 
 // console.log(Number(x));
 
-
 //2.Numbers to String
 
 //we use String() method to convert Number to string
@@ -41,7 +39,7 @@
 
 // console.log(typeof(numberToString));
 
-// let z = String(100 + 23); 
+// let z = String(100 + 23);
 
 // console.log(typeof(z));
 
@@ -68,7 +66,6 @@
 
 // console.log(booleanToNumber);
 
-
 //4.Boolean To String
 //we use String() here
 
@@ -80,7 +77,6 @@
 
 // console.log(typeof(booleanToString));
 
-
 // let x = false;
 
 // let booleanToString = String(x)
@@ -88,5 +84,3 @@
 // console.log(booleanToString);
 
 // console.log(typeof(booleanToString));
-
-
