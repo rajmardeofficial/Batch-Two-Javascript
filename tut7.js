@@ -1,7 +1,7 @@
 //////////Tempelate Literals//////////
 
 //Syntax//
-// let a = `Hello World` // ``(back tics) are used as for template literas
+// let a = `Hello World` // ``(back tics) are used as for template literas 
 
 // let x = "Pavan's bat" //limitations for using quotes
 
@@ -43,7 +43,7 @@
 
 // let a = 123;
 
-// let value = array[0] //the number inside the [] is known as index
+// let value = b[0] //the number inside the [] is known as index
 
 // alert(value)
 
@@ -51,6 +51,8 @@
 // let car = ["Brezza", "BMW", "Alto", "Mercedes"]
 
 // car[1] = "Swift"
+
+//alert(car) ["Brezza", "Swift", "Alto", "Mercedes"]
 
 // alert(car.length)
 
