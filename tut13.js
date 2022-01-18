@@ -84,6 +84,6 @@ let day = new Date().getDay();
 // }
 
 
-document.getElementById('heading').style.color = 'red'
+// document.getElementById('heading').style.color = 'red'
 
  
