@@ -66,20 +66,20 @@
 
 //1. Always name the constructor with Capital letter
 
-function Person(name, address, age, country){
-    this.name = name;
-    this.address = address;
-    this.age = age;
-    this.desh = country;
-}
+// function Person(name, address, age, country){
+//     this.name = name;
+//     this.address = address;
+//     this.age = age;
+//     this.desh = country;
+// }
 
 
 
-const p1 = new Person('Raj', 'niphad', 20, 'asjdh')
-const p2 = new Person("Raj", "niphad", 20);
+// const p1 = new Person('Raj', 'niphad', 20, 'asjdh')
+// const p2 = new Person("Raj", "niphad", 20);
 
-//accesing the values 
-console.log(p1);
+// //accesing the values 
+// console.log(p1);
 
 // console.log(p1);
 
@@ -112,5 +112,4 @@ console.log(p1);
 // }
 
 // const person1 = new Object();
-
 
