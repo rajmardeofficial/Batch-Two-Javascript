@@ -1,14 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>DOM</title>
-</head>
-<body>
-    <h1 id="myId">Document Object Model</h1>
-   
+    
+  </head>
+  <body>
+
+    <style>
+      .removeClass{
+        color: red;
+      }
+    </style>
+    <h1 id="myId" class="heading">Document Object Model</h1>
+
+    <button style="display: block;" onclick="change()">Change</button>
+
+    <img id="image" src="https://www.denofgeek.com/wp-content/uploads/2019/04/3515432-endgamedek-1.jpg?resize=768%2C432" alt="">
+
+    <button onclick="changeImg()">Change Image</button>
+
+
+    <h1 class="removeClass" id="removeClass">Hello World</h1>
+    <button onclick="classRemover()">Class Remover</button>
+    <button onclick="classAdder()">Class Adder</button>
+    <button onclick="toggleClass()">Toggler</button>
     <script src="tut16.js"></script>
-</body>
+  </body>
 </html>

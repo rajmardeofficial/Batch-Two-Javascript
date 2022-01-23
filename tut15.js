@@ -74,9 +74,10 @@
 // }
 
 
-
 // const p1 = new Person('Raj', 'niphad', 20, 'asjdh')
 // const p2 = new Person("Raj", "niphad", 20);
+
+
 
 // //accesing the values 
 // console.log(p1);
@@ -111,5 +112,8 @@
 //     desh: 'india'
 // }
 
+
+
 // const person1 = new Object();
+
 
